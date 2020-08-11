@@ -1,3 +1,2 @@
 # project-euler
-test
-# test
+Repo to keep track of my project-euler solutions
